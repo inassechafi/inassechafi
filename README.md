@@ -1,4 +1,4 @@
-👋 Hi, I'm Inasse Chafi
+👋 Hi, I'm Inasse
 
 🎓 3rd-year Software & Network Engineering student @ EMSI Casablanca
 
@@ -10,4 +10,7 @@
 
 🌍 Languages: Arabic · French · English
 
-📫 Open to internship opportunities in Web Dev or AI
+🎯 Open to internship opportunities 
+
+📫 Reach me: https://www.linkedin.com/in/inasse-c-89ab2539b/                            |
+
