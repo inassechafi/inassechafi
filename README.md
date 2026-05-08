@@ -12,5 +12,5 @@
 
 🎯 Open to internship opportunities 
 
-📫 Reach me: https://www.linkedin.com/in/inasse-c-89ab2539b/                            |
+📫 Reach me: https://www.linkedin.com/in/inasse-c-89ab2539b/
 
