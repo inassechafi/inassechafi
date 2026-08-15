@@ -1,6 +1,6 @@
 👋 Hi, I'm Inasse
 
-🎓 3rd-year Software & Network Engineering student @ EMSI Casablanca
+🎓 4th-year Software & Network Engineering student @ EMSI Casablanca
 
 💻 Passionate about Web Development & Artificial Intelligence
 
